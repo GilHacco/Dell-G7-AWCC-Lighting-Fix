@@ -81,4 +81,4 @@ welcome (entirely optional):
 
 ## License
 
-[MIT](LICENSE) © 2026 GilHa
+[MIT](LICENSE) © 2026 Gil Hacco
